@@ -1,0 +1,15 @@
+.sidebar ul li.active>a {
+    color: tomato;
+}
+.markdown-section blockquote{
+    border-color: tomato;
+}
+.markdown-section a{
+    color: tomato;
+}
+body {
+    background: transparent;
+  }
+.sidebar-toggle-button span{
+    background-color: tomato;
+}

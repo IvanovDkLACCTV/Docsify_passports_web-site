@@ -1,6 +1,6 @@
 <!-- _sidebar.md -->
 
-### Leading Alliance
+
 
 **Несогласованные паспорта**
 
@@ -14,13 +14,13 @@
 
     <!-- - [Старые названия](/passports/navbar/inconsistent/old-adas.md) -->
 
-* [Камеры наблюдения](/passports/navbar/inconsistent/inconsistent.md)
+* [Камеры наблюдения](/passports/navbar/inconsistent/cameras.md)
 
-* [Мониторы](/passports/navbar/inconsistent/inconsistent.md)
+* [Мониторы](/passports/navbar/inconsistent/monitors.md)
 
-* [Регистраторы](/passports/navbar/inconsistent/inconsistent.md)
+* [Регистраторы](/passports/navbar/inconsistent/regs.md)
 
-* [Прочее](/passports/navbar/inconsistent/inconsistent.md)
+* [Прочее](/passports/navbar/inconsistent/other.md)
 
 **Согласованные паспорта**
 

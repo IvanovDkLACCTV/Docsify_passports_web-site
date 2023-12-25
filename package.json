@@ -2,6 +2,7 @@
   "dependencies": {
     "add": "^2.0.6",
     "cargo": "^0.8.0",
+    "docsify-algolia-search-plugin": "^1.0.0-beta.5",
     "docsify-darklight-theme": "^3.2.0",
     "tauri": "^0.15.0",
     "yarn": "^1.22.21"
@@ -12,4 +13,3 @@
     "bundle": "tauri build"
   }
 }
-

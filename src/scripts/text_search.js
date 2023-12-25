@@ -17,7 +17,7 @@ window.$docsify = {
 
     // Localization
     placeholder: {
-      '/zh-cn/': '搜索',
+      '/ru-ru/': 'Ru',
       '/': 'Поиск по сайту',
     },
 
@@ -30,7 +30,7 @@ window.$docsify = {
     },
 
     // Headline depth, 1 - 6
-    depth: 2,
+    depth: 3,
 
     hideOtherSidebarContent: false, // whether or not to hide other sidebar content
 

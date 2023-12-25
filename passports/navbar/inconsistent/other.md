@@ -23,3 +23,7 @@
 * [LA-PoEL6.docx](https://docs.google.com/document/d/1duxgrwVtFihy_TZ3USl6iuMkMuoEOMZz/edit?usp=drive_link&ouid=108748645944006776128&rtpof=true&sd=true)
 
 * [LA-PoEL6.pdf](https://drive.google.com/file/d/1I88SabQ-BZHHjXO2v76Yws0gtR5iYi5J/view?usp=drive_link)
+
+## *LA-Count(H)*
+
+* [LA-Count(H).pdf](/passports/Прочее/LA-Count(H).pdf ':ignore')

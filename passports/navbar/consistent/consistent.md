@@ -1,15 +1,35 @@
 # Согласованные паспорта оборудования
 
-[LA-R-Watch.docx](https://docs.google.com/document/d/1kvnjo2Wezp0dHrG-yFfZ8jW2u5KWDxaX/edit?usp=drive_link&ouid=108748645944006776128&rtpof=true&sd=true)
+## Регистраторы
 
-[LA-AH (2.8).docx](https://docs.google.com/document/d/1AUVmxxDwKQPRwHiHhH1hm0Nggu9qyZ-C/edit?usp=drive_link&ouid=108748645944006776128&rtpof=true&sd=true)
+[LA-AMRH02-2.docx](passports\Согласованные\LA-AMRH02-2.docx ':ignore')
 
-[LA-Speaker.docx](https://docs.google.com/document/d/1fcbfDKfbX_pr6a1Fx9O6ToL3RRGX-qYa/edit?usp=drive_link&ouid=108748645944006776128&rtpof=true&sd=true)
+[LA-AWD (FW).docx](passports\Согласованные\LA-AWD(FW).docx ':ignore')
 
-[LA-AWD (FW).docx](https://docs.google.com/document/d/1rHd8OMhIjW6yo21AJfFWc0JN_IeLMP-D/edit?usp=drive_link&ouid=108748645944006776128&rtpof=true&sd=true)
+[LA-AWD (F).docx](passports\Согласованные\LA-AWD(F).docx ':ignore')
 
-[LA-ALineC.docx](https://docs.google.com/document/d/1ilyyyp_mlHCsjWPIK4JRbcS7SmTyNwvY/edit?usp=drive_link&ouid=108748645944006776128&rtpof=true&sd=true)
+[LA-AWD (F)(подписаный).pdf](passports\Согласованные\LA-AWD(F)(подписаный).pdf ':ignore')
 
-[LA-AMRH02-2.docx](https://docs.google.com/document/d/1AUVmxxDwKQPRwHiHhH1hm0Nggu9qyZ-C/edit?usp=drive_link&ouid=108748645944006776128&rtpof=true&sd=true)
+[LA-AWD (F)(c печатью и подписаный).pdf](passports\Согласованные\LA-AWD(F)(с_печатью_и_подписью).pdf ':ignore')
 
-[LA-R-Watch(подписаный).pdf](file:///Filer/Docs/Совещание.txt ':ignore')
+## Камеры
+
+[LA-AH (2.8).docx](passports\Согласованные\LA-AH(2.8).docx ':ignore')
+
+[LA-ALineC.docx](passports\Согласованные\LA-ALineC.docx ':ignore')
+
+[LA-ALine.docx](passports\Согласованные\LA-ALine.docx ':ignore')
+
+[LA-ALine(подписаный).pdf](passports\Согласованные\LA-ALine(подписаный).pdf ':ignore')
+
+[LA-ALine(с печатью и подписью).pdf](passports\Согласованные\LA-ALine(с_печатью_и_подписью).pdf ':ignore')
+
+## Прочее
+
+[LA-R-Watch.docx](passports\Согласованные\LA-R-Watch.docx ':ignore')
+
+[LA-R-Watch(подписаный).pdf](passports\Согласованные\LA-R-Watch(подписаный).pdf ':ignore')
+
+[LA-R-Watch(с печатью и подписью).pdf](passports\Согласованные\LA-R-Watch(с_печатью_и_подписью).pdf ':ignore')
+
+[LA-Speaker.docx](passports\Согласованные\LA-Speaker.docx ':ignore')

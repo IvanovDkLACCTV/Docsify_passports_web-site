@@ -1,7 +1,5 @@
 <!-- _sidebar.md -->
 
-
-
 **Несогласованные паспорта**
 
 * [Кабели](/passports/navbar/inconsistent/cables.md)

@@ -16,11 +16,11 @@
 
 * [LA-IM2DO (3.6).pdf](passports\Несогласованные\Камеры_наблюдения\LA-IM2DO(3.6).pdf ':ignore')
 
-### *LA-LA-IM2DO (A) с микрофоном*
+### *LA-LA-IM2DO с микрофоном*
 
-* [LA-IM2DO (A).docx](passports\Несогласованные\Камеры_наблюдения\LA-IM2DO(A).docx ':ignore')
+* [LA-IM2DO (M).docx](passports\Несогласованные\Камеры_наблюдения\LA-IM2DO(M).docx ':ignore')
 
-* [LA-IM2DO (A).pdf](passports\Несогласованные\Камеры_наблюдения\LA-IM2DO(A).pdf ':ignore')
+* [LA-IM2DO (M).pdf](passports\Несогласованные\Камеры_наблюдения\LA-IM2DO(M).pdf ':ignore')
 
 ## AHD
 

@@ -16,6 +16,12 @@
 
 * [LA-IM2DO (3.6).pdf](passports\Несогласованные\Камеры_наблюдения\LA-IM2DO(3.6).pdf ':ignore')
 
+### *LA-LA-IM2DO (2.8)*
+
+* [LA-IM2DO (A).docx](passports\Несогласованные\Камеры_наблюдения\LA-IM2DO(A).docx ':ignore')
+
+* [LA-IM2DO (A).pdf](passports\Несогласованные\Камеры_наблюдения\LA-IM2DO(A).pdf ':ignore')
+
 ## AHD
 
 ### *LA-AH (2.8)*

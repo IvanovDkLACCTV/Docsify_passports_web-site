@@ -2,6 +2,13 @@
 
 ![CoupleCamera](../../img/camera-ah-ip-cutout.png)
 
+**Старое наименование** | **Новое наименование**
+--- | ---
+LA-AH| LA-CAM-DAH (купольная, аналоговая)
+LA-AH2BO | LA-CAM-CAH (миникуб, аналоговая)
+LA-IM2DO | LA-CAM-DIP (купольная, цифровая)
+LA-IM2BO | LA-CAM-CIP (миникуб, цифровая)
+
 ## IP
 
 ### *LA-LA-IM2DO (2.8)*

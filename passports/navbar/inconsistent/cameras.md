@@ -1,6 +1,7 @@
 # Камеры наблюдения
 
 ![CoupleCamera](../../img/camera-ah-ip-cutout.png)
+![CoupleCamera](../../img/MiniBox300x244-cutout.png)
 
 **Старое наименование** | **Новое наименование**
 --- | ---

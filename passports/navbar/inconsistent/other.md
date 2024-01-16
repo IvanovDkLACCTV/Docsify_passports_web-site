@@ -9,9 +9,9 @@
 Оповещатель | Панель индикации тревог
 LA-R-Watch | LA-RWT
 
-* [LA-R-Watch.docx](passports\Несогласованные\Прочее\LA-R-Watch.docx ':ignore')
+* [LA-RWT.docx](passports\Несогласованные\Прочее\LA-RWT.docx ':ignore')
 
-* [LA-R-Watch.pdf](passports\Несогласованные\Прочее\LA-R-Watch.pdf ':ignore')
+* [LA-RWT.pdf](passports\Несогласованные\Прочее\LA-RWT.pdf ':ignore')
 
 ## *Динамик* *LA-Speaker*
 

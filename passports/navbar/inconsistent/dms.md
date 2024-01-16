@@ -11,6 +11,32 @@ LA-ALine | LA-DMS-IP (в большом корпусе)
 LA-ALineC | LA-DMS-IP-G1 (в маленьком корпусе)
 LA-LineC | LA-DMS-AH (аналоговая)
 
+## Новая номенклатура
+
+### *LA-DMS-IP*
+
+* [LA-DMS-IP.docx](passports\Несогласованные\Камеры_аналитики_водителя\Новые_названия\LA-DMS-IP.docx ':ignore')
+
+* [LA-DMS-IP.pdf](passports\Несогласованные\Камеры_аналитики_водителя\Новые_названия\LA-DMS-IP.pdf ':ignore')
+
+### *LA-DMS-IP-G1*
+
+* [LA-DMS-IP-G1.docx](passports\Несогласованные\Камеры_аналитики_водителя\Новые_названия\LA-DMS-IP-G1.docx ':ignore')
+
+* [LA-DMS-IP-G1.pdf](passports\Несогласованные\Камеры_аналитики_водителя\Новые_названия\LA-DMS-IP-G1.pdf ':ignore')
+
+### *LA-DMS-AH*
+
+* [LA-DMS-AH.docx](passports\Несогласованные\Камеры_аналитики_водителя\Новые_названия\LA-DMS-AH.docx ':ignore')
+
+* [LA-DMS-AH.pdf](passports\Несогласованные\Камеры_аналитики_водителя\Новые_названия\LA-DMS-AH.pdf ':ignore')
+
+### *LA-Сount(H) устройство подсчёта количества пассажиров*
+
+* [LA-Сount(H).docx](passports\Несогласованные\Камеры_аналитики_водителя\Новые_названия\LA-Сount(H).docx ':ignore')
+
+* [LA-Сount(H).pdf](passports\Несогласованные\Камеры_аналитики_водителя\Новые_названия\LA-Сount(H).pdf ':ignore')
+
 ## Старая номенклатура
 
 ### *LA-ALine*
@@ -30,23 +56,3 @@ LA-LineC | LA-DMS-AH (аналоговая)
 * [LA-LineC.docx](passports\Несогласованные\Камеры_аналитики_водителя\Старые_названия\LA-LineC.docx ':ignore')
 
 * [LA-LineC.pdf](passports\Несогласованные\Камеры_аналитики_водителя\Старые_названия\LA-LineC.pdf ':ignore')
-
-## Новая номенклатура
-
-### *LA-DMS-IPG1*
-
-* [LA-IDMS-G1.docx](passports\Несогласованные\Камеры_аналитики_водителя\Новые_названия\LA-IDMS-G1.docx ':ignore')
-
-* [LA-IDMS-G1.pdf](passports\Несогласованные\Камеры_аналитики_водителя\Новые_названия\LA-IDMS-G1.pdf ':ignore')
-
-### *LA-DMS-IPG2*
-
-* [LA-IDMS-G2.docx](passports\Несогласованные\Камеры_аналитики_водителя\Новые_названия\LA-IDMS-G2.docx ':ignore')
-
-* [LA-IDMS-G2.pdf](passports\Несогласованные\Камеры_аналитики_водителя\Новые_названия\LA-IDMS-G2.pdf ':ignore')
-
-### *LA-DMS-AHD*
-
-* [LA-ADMS.docx](passports\Несогласованные\Камеры_аналитики_водителя\Новые_названия\LA-ADMS.docx ':ignore')
-
-* [LA-ADMS.pdf](passports\Несогласованные\Камеры_аналитики_водителя\Новые_названия\LA-ADMS.pdf ':ignore')

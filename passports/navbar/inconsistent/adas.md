@@ -10,6 +10,26 @@ LA-LineC v.1 (малый корпус, с аналитикой) | LA-CRS-ADAS-S 
 LA-LineC v.3 | LA-CRS-ADAS-B (малый корпус, обычный разъём, с/без аналитики)
 LA-LineC v.2 (большой корпус, без аналитики) | LA-CRS (без аналитики)
 
+## Новая номенклатура
+
+### *LA-CRS Курсовая без аналитики*
+
+* [LA-CRS.docx](passports\Несогласованные\Камеры_курсовые\Новые_названия\LA-CRS.docx ':ignore')
+
+* [LA-CRS.pdf](passports\Несогласованные\Камеры_курсовые\Новые_названия\LA-CRS.pdf ':ignore')
+
+### *LA-CRS-ADAS-S с аналитикой и маленьким коннектером*
+
+* [LA-CRS-ADAS-S.docx](passports\Несогласованные\Камеры_курсовые\Новые_названия\LA-CRS-ADAS-S.docx ':ignore')
+
+* [LA-CRS-ADAS-S.pdf](passports\Несогласованные\Камеры_курсовые\Новые_названия\LA-CRS-ADAS-S.pdf ':ignore')
+
+### *LA-CRS-ADAS-B с аналитикой*
+
+* [LA-CRS-ADAS-B.docx](passports\Несогласованные\Камеры_курсовые\Новые_названия\LA-CRS-ADAS-B.docx ':ignore')
+
+* [LA-CRS-ADAS-B.pdf](passports\Несогласованные\Камеры_курсовые\Новые_названия\LA-CRS-ADAS-B.pdf ':ignore')
+
 ## Старая номенклатура
 
 ### *LA-LineC v.1*
@@ -23,23 +43,3 @@ LA-LineC v.2 (большой корпус, без аналитики) | LA-CRS (
 * [LA-LineC v.2.docx](passports/Несогласованные/Камеры_курсовые/Старые_названия/LA-LineC_v.2.docx ':ignore')
 
 * [LA-LineC v.2.pdf](passports/Несогласованные/Камеры_курсовые/Старые_названия/LA-LineC_v.2.pdf ':ignore')
-
-## Новая номенклатура
-
-### *LA-ADAS-4PinS*
-
-* [LA-ADAS-4PinS.docx](passports\Несогласованные\Камеры_курсовые\Новые_названия\LA-ADAS-4PinS.docx ':ignore')
-
-* [LA-ADAS-4PinS.pdf](passports\Несогласованные\Камеры_курсовые\Новые_названия\LA-ADAS-4PinS.pdf ':ignore')
-
-### *LA-ADAS-4PinB*
-
-* [LA-ADAS-4PinB.docx](passports\Несогласованные\Камеры_курсовые\Новые_названия\LA-ADAS-4PinB.docx ':ignore')
-
-* [LA-ADAS-4PinB.pdf](passports\Несогласованные\Камеры_курсовые\Новые_названия\LA-ADAS-4PinB.pdf ':ignore')
-
-### *LA-Course*
-
-* [LA-Course.docx](passports\Несогласованные\Камеры_курсовые\Новые_названия\LA-Course.docx ':ignore')
-
-* [LA-Course.pdf](passports\Несогласованные\Камеры_курсовые\Новые_названия\LA-Course.pdf ':ignore')

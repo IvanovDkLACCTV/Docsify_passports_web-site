@@ -32,6 +32,12 @@
 
 * [LA-AMRH04-1.pdf](passports\Несогласованные\Регистраторы\LA-AMRH04-1.pdf ':ignore')
 
+### *LA-IMR 4/2*
+
+* [LA-IMR4-2.docx](passports\Несогласованные\Регистраторы\LA-IMR4-2.docx ':ignore')
+
+* [LA-IMR4-2.pdf](passports\Несогласованные\Регистраторы\LA-IMR4-2.pdf ':ignore')
+
 ## Компактные
 
 ### *LA-AMRH02-2*

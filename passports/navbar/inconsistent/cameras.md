@@ -1,31 +1,89 @@
 # Камеры наблюдения
 
-![CoupleCamera](../../img/camera-ah-ip-cutout.png)
+![DouCamera](../../img/camera-ah-ip-cutout.png)
+![MiniBoxCamera](../../img/MiniBox300x244-cutout.png)
 
-## IP
+**Старое наименование** | **Новое наименование**
+--- | ---
+LA-AH| LA-CAM-DAH (купольная, аналоговая)
+LA-AH2BO | LA-CAM-CAH (миникуб, аналоговая)
+LA-IM2DO | LA-CAM-DIP (купольная, цифровая)
+LA-IM2BO | LA-CAM-CIP (миникуб, цифровая)
 
-### *LA-LA-IM2DO (2.8)*
+## IP (цифровые)
 
-* [LA-IM2DO (2.8).docx](https://docs.google.com/document/d/1Nj-GokYJdM7AgmeM4WDGV9fAF3Y7zk3g/edit?usp=drive_link&ouid=108748645944006776128&rtpof=true&sd=true)
+### Купольные
 
-* [LA-IM2DO (2.8).pdf](https://drive.google.com/file/d/1VT_34b1unNfLmmY8nyl8UADiX8JxwC96/view?usp=drive_link)
+#### *LA-CAM-DIP*
 
-### *LA-IM2DO (3.6)*
+* [LA-CAM-DIP.docx](passports\Несогласованные\Камеры_наблюдения\LA-CAM-DIP.docx ':ignore')
 
-* [LA-IM2DO (3.6).docx](https://docs.google.com/document/d/1JeEVF163a5QB7_wy1Ly6eW2AnZjApjdh/edit?usp=drive_link&ouid=108748645944006776128&rtpof=true&sd=true)
+* [LA-CAM-DIP.pdf](passports\Несогласованные\Камеры_наблюдения\LA-CAM-DIP.pdf ':ignore')
 
-* [LA-IM2DO (3.6).pdf](https://drive.google.com/file/d/1veVj8u3-MtLR_kGV16ne4-RIGOCp6-u2/view?usp=drive_link)
+### Миникуб
 
-## AHD
+#### *LA-CAM-CIP*
 
-### *LA-AH (2.8)*
+* [LA-CAM-CIP.docx](passports\Несогласованные\Камеры_наблюдения\LA-CAM-CIP.docx ':ignore')
 
-* [LA-AH (2.8).docx](https://docs.google.com/document/d/1-b0JA8HloUVQYCU28HXBdnagphos-N3d/edit?usp=drive_link)
+* [LA-CAM-CIP.pdf](passports\Несогласованные\Камеры_наблюдения\LA-CAM-CIP.pdf ':ignore')
 
-* [LA-AH (2.8).pdf](https://drive.google.com/file/d/17_DQ1hMDnZIh2IF-wNIejdq6uXiuiCBw/view?usp=drive_link)
+## AHD (аналоговые)
 
-### *LA-AH (3.6)*
+### Купольные
 
-* [LA-AH (3.6).docx](https://docs.google.com/document/d/1TtV_A9NytDr0AdDKP66IiCLTsCBnmUoL/edit?usp=drive_link&ouid=108748645944006776128&rtpof=true&sd=true)
+#### *LA-CAM-DAH*
 
-* [LA-AH (3.6).pdf](https://drive.google.com/file/d/1KsqkwUTBAJN7cx4QyBPNIbLiCvabekfj/view?usp=drive_link)
+* [LA-CAM-DAH.docx](passports\Несогласованные\Камеры_наблюдения\LA-CAM-DAH.docx ':ignore')
+
+* [LA-CAM-DAH.pdf](passports\Несогласованные\Камеры_наблюдения\LA-CAM-DAH.pdf ':ignore')
+
+### Мникуб
+
+#### *LA-CAM-CAH*
+
+* [LA-CAM-CAH.docx](passports\Несогласованные\Камеры_наблюдения\LA-CAM-CAH.docx ':ignore')
+
+* [LA-CAM-CAH.pdf](passports\Несогласованные\Камеры_наблюдения\LA-CAM-CAH.pdf ':ignore')
+
+## Старые номенклатуры
+
+### AHD (аналоговые)
+
+#### *LA-AH (2.8)*
+
+* [LA-AH (2.8).docx](passports\Несогласованные\Камеры_наблюдения\LA-AH(2.8).docx ':ignore')
+
+* [LA-AH (2.8).pdf](passports\Несогласованные\Камеры_наблюдения\LA-AH(2.8).pdf ':ignore')
+
+#### *LA-AH (3.6)*
+
+* [LA-AH (3.6).docx](passports\Несогласованные\Камеры_наблюдения\LA-AH(3.6).docx ':ignore')
+
+* [LA-AH (3.6).pdf](passports\Несогласованные\Камеры_наблюдения\LA-AH(3.6).pdf ':ignore')
+
+#### *LA-AH (Чёрная)*
+
+* [LA-AH (Чёрная).docx](passports\Несогласованные\Камеры_наблюдения\LA-AH(B).docx ':ignore')
+
+* [LA-AH (Чёрная).pdf](passports\Несогласованные\Камеры_наблюдения\LA-AH(B).pdf ':ignore')
+
+### IP (цифровые)
+
+#### *LA-IM2DO (2.8)*
+
+* [LA-IM2DO (2.8).docx](passports\Несогласованные\Камеры_наблюдения\LA-IM2DO(2.8).docx ':ignore')
+
+* [LA-IM2DO (2.8).pdf](passports\Несогласованные\Камеры_наблюдения\LA-IM2DO(2.8).pdf ':ignore')
+
+#### *LA-IM2DO (3.6)*
+
+* [LA-IM2DO (3.6).docx](passports\Несогласованные\Камеры_наблюдения\LA-IM2DO(3.6).docx ':ignore')
+
+* [LA-IM2DO (3.6).pdf](passports\Несогласованные\Камеры_наблюдения\LA-IM2DO(3.6).pdf ':ignore')
+
+#### *LA-LA-IM2DO с микрофоном*
+
+* [LA-IM2DO (M).docx](passports\Несогласованные\Камеры_наблюдения\LA-IM2DO(M).docx ':ignore')
+
+* [LA-IM2DO (M).pdf](passports\Несогласованные\Камеры_наблюдения\LA-IM2DO(M).pdf ':ignore')

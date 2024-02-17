@@ -4,42 +4,52 @@
 
 ## Полноразмерные
 
-### *LA-AWD (F)*
+### *LA-AWD*
 
-* [LA-AWD (F).docx](https://docs.google.com/document/d/1ZEUKSL9pFF6JC9uKD9KSxvsWdeo9sAl1/edit?usp=drive_link&ouid=108748645944006776128&rtpof=true&sd=true)
+* [LA-AWD (F).docx](passports\Несогласованные\Регистраторы\LA-AWD(F).docx ':ignore')
 
-* [LA-AWD (F).pdf](https://drive.google.com/file/d/1oM-7zUPcIb-CxHnuJ6NFxf92CIYLNyxq/view?usp=drive_link)
+* [LA-AWD (F).pdf](passports\Несогласованные\Регистраторы\LA-AWD(F).pdf ':ignore')
+
+* [LA-AWD (FW).docx](passports\Несогласованные\Регистраторы\LA-AWD(FW).docx ':ignore')
+
+* [LA-AWD (FW).pdf](passports\Несогласованные\Регистраторы\LA-AWD(FW).pdf ':ignore')
 
 ### *LA-AMRH08-4(F)*
 
-* [LA-AMRH08-4(F).docx](https://docs.google.com/document/d/1uhZjENw-ORD7nESpURx4kmaGivOkSi4B/edit?usp=drive_link&ouid=108748645944006776128&rtpof=true&sd=true)
+* [LA-AMRH08-4(F).docx](passports\Несогласованные\Регистраторы\LA-AMRH08-4(F).docx ':ignore')
 
-* [LA-AMRH08-4(F).pdf](https://drive.google.com/file/d/1h0vD1rY25YOFCusegXXJG7lqtumQoTm1/view?usp=drive_link)
+* [LA-AMRH08-4(F).pdf](passports\Несогласованные\Регистраторы\LA-AMRH08-4(F).pdf ':ignore')
 
 ### *LA-AMRH04-4*
 
-* [LA-AMRH04-4.docx](https://docs.google.com/document/d/1u9TeZjs9w6-ZItN0a4v42dgD1xeweI3B/edit?usp=drive_link&ouid=108748645944006776128&rtpof=true&sd=true)
+* [LA-AMRH04-4.docx](passports\Несогласованные\Регистраторы\LA-AMRH04-4.docx ':ignore')
 
-* [LA-AMRH04-4.pdf](https://drive.google.com/file/d/1rbFgqnfnLC3ihRRsrHsWX1ytfYrRPAjn/view?usp=drive_link)
+* [LA-AMRH04-4.pdf](passports\Несогласованные\Регистраторы\LA-AMRH04-4.pdf ':ignore')
 
 ### *LA-AMRH04-1*
 
-* [LA-AMRH04-1.docx](https://docs.google.com/document/d/1j81prBfqB-gsufLxR8TIieyM4QCG2LMa/edit?usp=drive_link&ouid=108748645944006776128&rtpof=true&sd=true)
+* [LA-AMRH04-1.docx](passports\Несогласованные\Регистраторы\LA-AMRH04-1.docx ':ignore')
 
-* [LA-AMRH04-1.pdf](https://drive.google.com/file/d/1YIHMpzyGHGga6rlvRd3Ln8GRRA5OtWag/view?usp=drive_link)
+* [LA-AMRH04-1.pdf](passports\Несогласованные\Регистраторы\LA-AMRH04-1.pdf ':ignore')
+
+### *LA-IMR 4/2*
+
+* [LA-IMR4-2.docx](passports\Несогласованные\Регистраторы\LA-IMR4-2.docx ':ignore')
+
+* [LA-IMR4-2.pdf](passports\Несогласованные\Регистраторы\LA-IMR4-2.pdf ':ignore')
 
 ## Компактные
 
 ### *LA-AMRH02-2*
 
-* [LA-AMRH02-2.docx](https://docs.google.com/document/d/1AUVmxxDwKQPRwHiHhH1hm0Nggu9qyZ-C/edit?usp=drive_link)
+* [LA-AMRH02-2.docx](passports\Несогласованные\Регистраторы\LA-AMRH02-2.docx ':ignore')
 
-* [LA-AMRH02-2.pdf](https://drive.google.com/file/d/1RM5jlQ0QIcPQTPhIZIPHZTMc26hBQM3z/view?usp=drive_link)
+* [LA-AMRH02-2.pdf](passports\Несогласованные\Регистраторы\LA-AMRH02-2.pdf ':ignore')
 
 ## Носимые
 
 ### *LA-BR5*
 
-* [LA-BR5.docx](https://docs.google.com/document/d/1Pj_rX_So5I75-Cm1SKbfDFELF9PW46zE/edit?usp=drive_link&ouid=108748645944006776128&rtpof=true&sd=true)
+* [LA-BR5.docx](passports\Несогласованные\Регистраторы\Носимый_регистратор\LA-BR5.docx ':ignore')
 
-* [LA-BR5.pdf](https://drive.google.com/file/d/1ePBqGWlUDX0Yme1azdLrmu_hHbaKWUA3/view?usp=drive_link)
+* [LA-BR5.pdf](passports\Несогласованные\Регистраторы\Носимый_регистратор\LA-BR5.pdf ':ignore')

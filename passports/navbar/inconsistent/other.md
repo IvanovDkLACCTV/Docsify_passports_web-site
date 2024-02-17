@@ -1,25 +1,38 @@
 # Прочее
 
-## *LA-R-Watch*
+## *Панель индикации тревог* *LA-RWT*
 
-* [LA-R-Watch.docx](https://docs.google.com/document/d/1kvnjo2Wezp0dHrG-yFfZ8jW2u5KWDxaX/edit?usp=drive_link)
+>Таблица соответствия старой и новой номенклатур
 
-* [LA-R-Watch.pdf](https://drive.google.com/file/d/13XB5ev-2ygKBtuw4aoaPG0PKm9cQh9tN/view?usp=drive_link)
+**Старое наименование** | **Новое наименование**
+--- | ---
+Оповещатель | Панель индикации тревог
+LA-R-Watch | LA-RWT
 
-## *LA-Speaker*
+* [LA-RWT.docx](passports\Несогласованные\Прочее\LA-RWT.docx ':ignore')
 
-* [LA-Speaker.docx](https://docs.google.com/document/d/1fcbfDKfbX_pr6a1Fx9O6ToL3RRGX-qYa/edit?usp=drive_link)
+* [LA-RWT.pdf](passports\Несогласованные\Прочее\LA-RWT.pdf ':ignore')
 
-* [LA-Speaker.pdf](https://drive.google.com/file/d/1x07YY322r_nIprPyXcou9-EPPWDYYew2/view?usp=drive_link)
+## *Динамик* *LA-Speaker*
 
-## *LA-UPS*
+* [LA-Speaker.docx](passports\Несогласованные\Прочее\LA-Speaker.docx ':ignore')
 
-* [LA-UPS.docx](https://docs.google.com/document/d/1DAqERYYSbbwv-YG6_H_7_Ao6XLkCOc1z/edit?usp=drive_link&ouid=108748645944006776128&rtpof=true&sd=true)
+* [LA-Speaker.pdf](passports\Несогласованные\Прочее\LA-Speaker.pdf ':ignore')
 
-* [LA-UPS.pdf](https://drive.google.com/file/d/1R6m8U55Doea6_oF_dcn5qTHedQXhgInW/view?usp=drive_link)
+## *ИБП* *LA-UPS*
 
-## *LA-PoEL6*
+* [LA-UPS.docx](passports\Несогласованные\Прочее\LA-UPS.docx ':ignore')
 
-* [LA-PoEL6.docx](https://docs.google.com/document/d/1duxgrwVtFihy_TZ3USl6iuMkMuoEOMZz/edit?usp=drive_link&ouid=108748645944006776128&rtpof=true&sd=true)
+* [LA-UPS.pdf](passports\Несогласованные\Прочее\LA-UPS.pdf ':ignore')
 
-* [LA-PoEL6.pdf](https://drive.google.com/file/d/1I88SabQ-BZHHjXO2v76Yws0gtR5iYi5J/view?usp=drive_link)
+## *Коммутатор* *LA-PoEL6*
+
+* [LA-PoEL6.docx](passports\Несогласованные\Прочее\LA-PoEL6.docx ':ignore')
+
+* [LA-PoEL6.pdf](passports\Несогласованные\Прочее\LA-PoEL6.pdf ':ignore')
+
+## *Устройство подсчёта пассажиров* *LA-Count(H)*
+
+* [LA-Count(H).docx](passports\Несогласованные\Прочее\LA-Count(H).docx ':ignore')
+
+* [LA-Count(H).pdf](passports\Несогласованные\Прочее\LA-Count(H).pdf ':ignore')

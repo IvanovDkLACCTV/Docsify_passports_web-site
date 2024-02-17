@@ -2,9 +2,9 @@
   "display": "fullscreen",
   "icons": [
     {
-      "src": "src/img/favicon.ico",
-      "sizes": "32x32",
-      "types": "image/ico"
+      "src": "src/img/logo.svg",
+      "sizes": "512x512",
+      "types": "image/svg"
     }
   ],
   "name": "LACCTV passports",

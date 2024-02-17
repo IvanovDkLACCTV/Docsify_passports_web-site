@@ -1,5 +1,10 @@
 {
+  "name": "LACCTV passports",
+  "short_name": "LACCTV",
+  "start_url": "Docsify_passports_web-site/",
   "display": "fullscreen",
+  "background_color": "white",
+  "decsription": "Приложение с паспортами оборудования",
   "icons": [
     {
       "src": "src/img/logo.png",
@@ -7,7 +12,9 @@
       "types": "image/png"
     }
   ],
-  "name": "LACCTV passports",
-  "short_name": "LACCTV",
-  "start_url": "Docsify_passports_web-site/"
+  "related_applications": [
+    {
+      "platform": "web"
+    }
+  ]
 }

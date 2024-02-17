@@ -3,7 +3,7 @@
   "short_name": "LACCTV",
   "start_url": "Docsify_passports_web-site/",
   "display": "fullscreen",
-  "background_color": "white",
+  "background_color": "#fff",
   "decsription": "Приложение с паспортами оборудования",
   "icons": [
     {

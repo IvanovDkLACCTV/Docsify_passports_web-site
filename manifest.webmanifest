@@ -1,0 +1,13 @@
+{
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "src/img/favicon.ico",
+      "sizes": "32x32",
+      "types": "image/ico"
+    }
+  ],
+  "name": "LACCTV passports",
+  "short_name": "LACCTV",
+  "start_url": "/Docsify_passports_web-site/"
+}

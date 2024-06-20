@@ -4,7 +4,7 @@
 
 ## *LA-LCD7*
 
-![7LCD](../../img/7LCD.jpg ':size=400x399') 
+![7LCD](../../img/7LCD.png ':size=400x399') 
 
 * [LA-LCD7-A.docx](passports\Несогласованные\Мониторы\LA-LCD7-A.docx ':ignore')
 

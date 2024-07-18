@@ -1,6 +1,6 @@
 # Камеры аналитики водителя
 
-![DSMbig](../../img/DSM-cutout.webp)
+![DSMbig](../../img/DSM-cutout.png)
 ![DMSsmall](../../img/linecdsm-cutout.png)
 
 >Таблица соответствия старой и новой номенклатур

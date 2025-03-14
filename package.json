@@ -8,8 +8,6 @@
     "yarn": "^1.22.21"
   },
   "scripts": {
-    "tauri": "tauri",
-    "dev": "npm run tauri dev",
-    "bundle": "tauri build"
+    "dev": "docsify serve"
   }
 }

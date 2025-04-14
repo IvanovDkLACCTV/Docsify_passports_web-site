@@ -1,29 +1,17 @@
 # Паспорта оборудования в входящие в остальные категории
 
-[LA-AMRH02-2.docx](passports\Согласованные\LA-AMRH02-2.docx ":ignore")
+![la-rwt-front.png](../../img/la-rwt-front.png)
 
-[LA-AWD (FW).docx](<passports\Согласованные\LA-AWD(FW).docx> ":ignore")
+**Скачать паспорт** [LA-RWT](passports/files/LA-RWT.pdf ":ignore")
 
-[LA-AWD (F).docx](<passports\Согласованные\LA-AWD(F).docx> ":ignore")
+![la-ups.png](../../img/la-ups.png)
 
-[LA-AWD (F)(подписаный).pdf](<passports\Согласованные\LA-AWD(F)(подписаный).pdf> ":ignore")
+**Скачать паспорт** [LA-UPS](passports/files/LA-UPS.pdf ":ignore")
 
-[LA-AWD (F)(c печатью и подписаный).pdf](<passports\Согласованные\LA-AWD(F)(с_печатью_и_подписью).pdf> ":ignore")
+![la-poel6t.png](../../img/la-poel6.png)
 
-[LA-AH (2.8).docx](<passports\Согласованные\LA-AH(2.8).docx> ":ignore")
+**Скачать паспорт** [LA-PoEL6](passports/files/LA-PoEL6.pdf ":ignore")
 
-[LA-ALineC.docx](passports\Согласованные\LA-ALineC.docx ":ignore")
+![la-speaker.png](../../img/la-speaker.png)
 
-[LA-ALine.docx](passports\Согласованные\LA-ALine.docx ":ignore")
-
-[LA-ALine(подписаный).pdf](<passports\Согласованные\LA-ALine(подписаный).pdf> ":ignore")
-
-[LA-ALine(с печатью и подписью).pdf](<passports\Согласованные\LA-ALine(с_печатью_и_подписью).pdf> ":ignore")
-
-[LA-R-Watch.docx](passports\Согласованные\LA-R-Watch.docx ":ignore")
-
-[LA-R-Watch(подписаный).pdf](<passports\Согласованные\LA-R-Watch(подписаный).pdf> ":ignore")
-
-[LA-R-Watch(с печатью и подписью).pdf](<passports\Согласованные\LA-R-Watch(с_печатью_и_подписью).pdf> ":ignore")
-
-[LA-Speaker.docx](passports\Согласованные\LA-Speaker.docx ":ignore")
+**Скачать паспорт** [LA-Speaker](passports/files/LA-Speaker.pdf ":ignore")

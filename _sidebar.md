@@ -1,25 +1,15 @@
 <!-- _sidebar.md -->
 
-**Несогласованные паспорта**
+**Паспорта**
 
-* [Кабели](/passports/navbar/inconsistent/cables.md)
+- [Регистраторы](/passports/pages/mdvrs/mdvrs.md)
+- [Камеры](/passports/pages/cameras/cameras.md)
+- [Мониторы](/passports/pages/screens/screens.md)
+- [Кабели](/passports/pages/cables/cables.md)
+- [Прочее](/passports/pages/other/other.md)
 
-* [Камеры аналитики](/passports/navbar/inconsistent/dms.md)
+**Инструкции**
 
-    <!-- - [Старые названия](/passports/navbar/inconsistent/old-dms.md) -->
-
-* [Камеры курсовые](/passports/navbar/inconsistent/adas.md)
-
-    <!-- - [Старые названия](/passports/navbar/inconsistent/old-adas.md) -->
-
-* [Камеры наблюдения](/passports/navbar/inconsistent/cameras.md)
-
-* [Мониторы](/passports/navbar/inconsistent/monitors.md)
-
-* [Регистраторы](/passports/navbar/inconsistent/regs.md)
-
-* [Прочее](/passports/navbar/inconsistent/other.md)
-
-**Согласованные паспорта**
-
-* [Согласованные паспорта](/passports/navbar/consistent/consistent.md)
+- [Монтаж](/instructions/pages/instalation/instalation.md)
+- [Обслуживание](/instructions/pages/service/service.md)
+- [Программное обеспечение](/instructions/pages/software/software.md)

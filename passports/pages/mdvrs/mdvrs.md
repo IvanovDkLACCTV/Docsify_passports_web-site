@@ -69,6 +69,8 @@
 
 **Скачать паспорт** [LA-AWD.pdf](passports\files\LA-AWD.pdf ":ignore")
 
+---
+
 ## LA-AMRH04/1
 
 **Мобильный видеорегистратор LA-AMRH04/1**
@@ -124,6 +126,8 @@
 ![la-amrh04-1-schema.png](../../img/la-amrh04-1-schema.png)
 
 **Скачать паспорт** [LA-AMRH04.pdf](passports/files/LA-AMRH04.pdf ":ignore")
+
+---
 
 ## LA-AMRH04/4
 
@@ -209,6 +213,8 @@
 
 **Скачать паспорт** [LA-AMRH04-4.pdf](passports/files/LA-AMRH04-4.pdf ":ignore")
 
+---
+
 ## LA-AMRH08/4
 
 **Мобильный видеорегистратор LA-AMRH 8/4 (F)**
@@ -278,6 +284,8 @@
 ![la-amrh8-4f-schema.png](../../img/la-amrh08-4-schema.png)
 
 **Скачать паспорт** [LA-AMRH8-4(F).pdf](<passports/files/LA-AMRH08-4(F).pdf> ":ignore")
+
+---
 
 ## Прочие
 
@@ -352,6 +360,8 @@
 | Температурный режим      | -40°C...+70°C                                                              |
 
 **Скачать паспорт** [LA-AMRH02-2.pdf](passports/files/LA-AMRH02-2.pdf ":ignore")
+
+---
 
 ### LA-BR5
 

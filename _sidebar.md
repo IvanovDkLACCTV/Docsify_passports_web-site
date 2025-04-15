@@ -10,7 +10,7 @@
 
 **Инструкции**
 
-- [Монтаж](/instructions/pages/instalation/instalation.md)
-- [Обслуживание](/instructions/pages/service/service.md)
+- [Монтаж](/instructions/pages/installation/installation.md)
+- [Оборудование](/instructions/pages/service/service.md)
 - [Программное обеспечение](/instructions/pages/software/software.md)
 - [Схемы](/instructions/pages/schemes/schemes.md)
